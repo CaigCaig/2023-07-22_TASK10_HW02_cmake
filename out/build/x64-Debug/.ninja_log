@@ -1,0 +1,14 @@
+# ninja log v5
+40	2163	7117194627723325	CMakeFiles/figures.dir/quadrangle.cpp.obj	932aa72d50ccd581
+23	2222	7117194627963247	CMakeFiles/figures.dir/figure.cpp.obj	4510663ca5b2bc1e
+31	2231	7117194628892942	CMakeFiles/figures.dir/triangle.cpp.obj	11312a1b3d45b57f
+15	2303	7117194629152860	CMakeFiles/figures.dir/funcs.cpp.obj	2d8d9cdaf7978e2a
+62	2561	7117194632391770	CMakeFiles/figures.dir/e_triangle.cpp.obj	2441ad55aa3f2e1f
+2232	4292	7117194649656050	CMakeFiles/figures.dir/rectangle.cpp.obj	a694b140ba4dc3ba
+2222	4456	7117194651005597	CMakeFiles/figures.dir/r_triangle.cpp.obj	9f1cd1e650a95359
+2303	4496	7117194651535420	CMakeFiles/figures.dir/parallelogram.cpp.obj	c05f40c9ce1a2bc4
+2195	4519	7117194651785344	CMakeFiles/figures.dir/i_triangle.cpp.obj	68c52bac95b7732
+2561	4640	7117194653114896	CMakeFiles/figures.dir/rhomb.cpp.obj	b9c9e00df52a77cb
+6	4697	7117194653784671	CMakeFiles/figures.dir/main.cpp.obj	701e4f84558d7e46
+4293	5405	7117194660902314	CMakeFiles/figures.dir/square.cpp.obj	575f5e1a510c84f
+5405	6556	7117194670559119	figures.exe	7225ffa27b508ac9
